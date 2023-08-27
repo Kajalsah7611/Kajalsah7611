@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kajal kumari
-- 👀 I’m interested in web development & Application Development 
-- 🌱 I’m currently learning Angular 
+- 👀 I’m a highly motivated software engineer , more into web development & Application Development 
+- 🌱 I’m currently exploring myself.
 - 💞️ I’m looking to collaborate on my own interests. 
 - 📫 How to reach me :https://www.linkedin.com/in/kajal-sah-1004b21b2
 
