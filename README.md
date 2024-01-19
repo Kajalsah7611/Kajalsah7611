@@ -29,7 +29,7 @@ I'm Kajal, a highly motivated software engineer with a passion for web developme
 
 ## Connect with Me
 
-- LinkedIn: [Kajal Sah](https://www.linkedin.com/in/kajal-sah-1004b21b2)
+- LinkedIn: [Kajal Sah](https://www.linkedin.com/in/kajal-1004b21b2/)
   
 
 ## Let's Code Together! 🚀
