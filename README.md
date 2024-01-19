@@ -30,7 +30,7 @@ I'm Kajal, a highly motivated software engineer with a passion for web developme
 ## Connect with Me
 
 - LinkedIn: [Kajal.LinkedIn](https://www.linkedin.com/in/kajal-1004b21b2/)
-- Portfolio: [Kajal.Portfolio](https://kajalsah7611.netlify.app/).
+- Portfolio: [Kajal.Portfolio](https://kajalsah7611.netlify.app/)
   
 
 ## Let's Code Together! 🚀
