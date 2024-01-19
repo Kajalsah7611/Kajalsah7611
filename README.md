@@ -1,4 +1,3 @@
-Certainly! Here's a template for a profile README.md file for you:
 
 ---
 
