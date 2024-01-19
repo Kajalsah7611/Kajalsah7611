@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kajal kumari
+- 👋 Hi, I’m @Kajal.
 - 👀 I’m a highly motivated software engineer , more into web development.
 - 🌱 I’m currently exploring myself.
 - 💞️ I’m looking to collaborate on my own interests. 
