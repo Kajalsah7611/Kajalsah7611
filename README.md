@@ -19,7 +19,7 @@ I'm Kajal, a highly motivated software engineer with a passion for web developme
 - 🌐 Experience with front-end frameworks like React.
 - 📊 Familiar with back-end technologies such as Node.js and Core PHP.
 - 📱 Passionate about creating responsive and user-friendly web applications.
-- 
+  
 
 ## I'm Open to Collaboration
 
