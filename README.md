@@ -11,6 +11,7 @@ I'm Kajal, a highly motivated software engineer with a passion for web developme
 - 👩‍💻 I'm a software engineer enthusiastic about creating awesome web applications.
 - 🌐 Currently exploring new technologies and refining my skills in web development.
 - 🚀 On a journey of self-discovery and continuous improvement.
+  
 
 
 ## Tech Stack
