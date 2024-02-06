@@ -2,7 +2,6 @@
 ---
 
 # Hi there! 👋
-
 I'm Kajal, a highly motivated software engineer with a passion for web development. Welcome to my GitHub profile!
 
 
