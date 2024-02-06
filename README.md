@@ -16,7 +16,7 @@ I'm Kajal, a highly motivated software engineer with a passion for web developme
 
 ## Tech Stack
 
-- 💻 Proficient in HTML, CSS, and JavaScript.
+- 💻 Proficient in HTML, CSS, Bootstrap and JavaScript.
 - 🌐 Experience with front-end frameworks like React.
 - 📊 Familiar with back-end technologies such as Node.js and Core PHP.
 - 🛢️ Knowledgeable in database management:
