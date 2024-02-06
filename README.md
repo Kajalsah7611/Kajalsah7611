@@ -19,6 +19,9 @@ I'm Kajal, a highly motivated software engineer with a passion for web developme
 - 💻 Proficient in HTML, CSS, and JavaScript.
 - 🌐 Experience with front-end frameworks like React.
 - 📊 Familiar with back-end technologies such as Node.js and Core PHP.
+- 🛢️ Knowledgeable in database management:
+   - MySQL: Experienced in designing and managing relational databases, ensuring efficient data storage and retrieval.
+   - MongoDB: Proficient in utilizing NoSQL databases, providing flexibility and scalability for data-intensive applications.
 - 📱 Passionate about creating responsive and user-friendly web applications.
   
 
