@@ -32,7 +32,7 @@ I'm Kajal, a highly motivated software engineer with a passion for web developme
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kajal-1004b21b2/)
+- [LinkedIn](https://www.linkedin.com/in/kajalsah7611/)
 - [Portfolio](https://kajalsah7611.netlify.app/)
   
 
